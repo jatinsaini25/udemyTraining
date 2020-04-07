@@ -5,5 +5,6 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello, Playground")
+	fmt.Println("Hello, Playground");
+	fmt.Println("Hello, New Change");
 }
